@@ -75,7 +75,7 @@ https://github.com/Mannyalfa/shop-shop-reboot
 
 ## Deployed-URL
 
-https://bookworm-book-search.herokuapp.com/ 
+
  
 ## Credits
 
