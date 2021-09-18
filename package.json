@@ -17,6 +17,8 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "@reduxjs/toolkit": "^1.6.1",
     "apollo-boost": "^0.4.9",
     "apollo-server": "^3.3.0",
     "bcrypt": "^5.0.1",
@@ -24,6 +26,11 @@
     "graphql": "^15.5.3",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.0.6",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-native": "^0.65.1",
+    "react-redux": "^7.2.5",
+    "redux": "^4.1.1"
   }
 }
