@@ -5,13 +5,13 @@
         "activityBar.inactiveForeground": "#046F0E",
         "activityBarBadge.foreground": "#00090B",
         "activityBarBadge.background": "#50C4E4",
-        "statusBar.foreground": "#9AFFC8",
-        "statusBar.background": "#0F8545",
-        "statusBarItem.hoverBackground": "#155A4C",
-        "statusBarItem.remoteForeground": "#B1EEFF",
-        "statusBarItem.remoteBackground": "#1A728A",
-        "statusBar.debuggingForeground": "#000000",
-        "statusBar.debuggingBackground": "#46BC7C"
+        "statusBar.foreground": "#FFD1CF",
+        "statusBar.background": "#A13D39",
+        "statusBarItem.hoverBackground": "#653A1C",
+        "statusBarItem.remoteForeground": "#FADF89",
+        "statusBarItem.remoteBackground": "#785C07",
+        "statusBar.debuggingForeground": "#110100",
+        "statusBar.debuggingBackground": "#D8746F"
     },
     "git.ignoreLimitWarning": true
 }
