@@ -12,5 +12,6 @@
         "statusBarItem.remoteBackground": "#755D05",
         "statusBar.debuggingForeground": "#0E0100",
         "statusBar.debuggingBackground": "#D7756D"
-    }
+    },
+    "git.ignoreLimitWarning": true
 }
