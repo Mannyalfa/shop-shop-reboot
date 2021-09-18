@@ -18,7 +18,7 @@
 
 ## Description
 
-This MERN-stack application searches for books by title, author or subject using the Google books API.  After signing up, users can sign up search for books listings and save them for later retrieval once.
+A full-stack e-commerce site that includes signup/login, saved items page and a secure checkout page
 
 User Story:
 
