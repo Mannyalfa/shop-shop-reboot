@@ -12,13 +12,11 @@
     "start:dev": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
     "install": "cd server && npm i && cd ../client && npm i",
     "seed": "cd server && npm run seed",
-    "build": "cd client && npm run build"
-    },
-
+    "heroku-postbuild": "cd client && npm install && npm run build"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "heroku": "^7.59.0",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
