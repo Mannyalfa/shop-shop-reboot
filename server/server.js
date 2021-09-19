@@ -36,3 +36,7 @@ db.once('open', () => {
     console.log(`Use GraphQL at http://localhost:${PORT}${server.graphqlPath}`);
   });
 });
+
+const distDir = __dirname + "/dist/";
+
+app.use(express.static(distDir));
