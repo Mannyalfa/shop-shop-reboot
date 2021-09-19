@@ -37,6 +37,3 @@ db.once('open', () => {
   });
 });
 
-const distDir = __dirname + "/dist/";
-
-app.use(express.static(distDir));
