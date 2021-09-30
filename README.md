@@ -37,20 +37,18 @@ MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https
   
 ## Images:
 
-![screenshot]()
+![screenshot](https://github.com/Mannyalfa/shop-shop-reboot/blob/main/assets/screenshot.jpg)
 
-![screenshot]()
+![screenshot](https://github.com/Mannyalfa/shop-shop-reboot/blob/main/assets/screenshot-login.jpg)
 
-
-
+![screenshot](https://github.com/Mannyalfa/shop-shop-reboot/blob/main/assets/order-hist.jpg)
 
 ## Repository URL
 
 https://github.com/Mannyalfa/shop-shop-reboot
 
 ## Deployed-URL
-
-
+https://shop-shop-reboot.herokuapp.com/
  
 ## Credits
 
